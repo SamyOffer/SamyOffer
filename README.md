@@ -6,11 +6,10 @@
 
 I'm a **Computer Science master's student at UCLouvain**, specializing in **Artificial Intelligence: Big Data, Optimization and Algorithms**. My work spans language models, combinatorial optimization, and high-performance computing.
 
-Based in **Brussels, Belgium**. I'm exploring **AI Consultant**, **Solutions Engineer**, and **IT / Tech Consultant** roles, with an interest in product, business analysis, and cybersecurity risk.
+Based in **Brussels, Belgium**. I'm exploring **AI Consultant**, **Data Science Consultant**, **Solutions Engineer**, and **IT / Tech Consultant** roles, with an interest in product, business analysis, and cybersecurity risk.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samy-offer-38a559293/">LinkedIn</a> ·
-  <a href="https://samyoffer.github.io/cours-master-ucl/">Master's learning notes</a> ·
   <a href="https://github.com/search?q=author%3ASamyOffer&type=pullrequests">All my pull requests</a>
 </p>
 
@@ -28,9 +27,6 @@ Implemented constraint models with PyCSP3 and explored Branch & Bound for TSP, d
 
 **High-performance computing** · Computer architecture course  
 Optimized matrix computation with AVX512 and cache-aware blocking; implemented CUDA kernels for parallel pattern matching.
-
-**[Interactive master's learning notes](https://samyoffer.github.io/cours-master-ucl/)**  
-Public notes and interactive explanations covering machine learning, data mining, and constraint programming. [Source](https://github.com/SamyOffer/cours-master-ucl).
 
 <!-- Add links to the three academic project repositories when they are published. -->
 
@@ -64,4 +60,4 @@ An AI-assisted employer intelligence system that connects hiring signals across 
 
 ### Let's connect
 
-For AI consulting, solutions engineering, freelance work, or open source collaboration, [connect with me on LinkedIn](https://www.linkedin.com/in/samy-offer-38a559293/).
+For AI or data science consulting, solutions engineering, freelance work, or open source collaboration, [connect with me on LinkedIn](https://www.linkedin.com/in/samy-offer-38a559293/).
